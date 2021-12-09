@@ -1,0 +1,184 @@
+﻿Pais,SuicideClass,MortalityClass,HomicideClass,GobExpenditureClass,AlcoholConsumptionClass
+Afghanistan,Bajo,Alto,Medio,Medio,Medio
+Albania,Bajo,Bajo,Bajo,Medio,Medio
+Algeria,Bajo,Medio,Bajo,Medio,Medio
+Angola,Medio,Alto,Medio,Bajo,Bajo
+Antigua and Barbuda,Bajo,Bajo,Bajo,Alto,Alto
+Argentina,Medio,Bajo,Medio,Bajo,Bajo
+Armenia,Bajo,Medio,Bajo,Medio,Bajo
+Australia,Medio,Bajo,Bajo,Alto,Alto
+Austria,Medio,Bajo,Bajo,Alto,Alto
+Azerbaijan,Bajo,Medio,Bajo,Bajo,Bajo
+Bahamas (the),Bajo,Medio,Alto,Alto,Alto
+Bahrain,Bajo,Bajo,Bajo,Medio,Medio
+Bangladesh,Bajo,Medio,Bajo,Bajo,Bajo
+Barbados,Bajo,Medio,Medio,Medio,Medio
+Belarus,Alto,Bajo,Bajo,Alto,Alto
+Belgium,Alto,Bajo,Bajo,Alto,Alto
+Belize,Bajo,Medio,Alto,Alto,Alto
+Benin,Medio,Alto,Medio,Medio,Medio
+Bhutan,Bajo,Medio,Bajo,Medio,Medio
+Bolivia (Plurinational State of),Bajo,Medio,Medio,Medio,Medio
+Bosnia and Herzegovina,Medio,Bajo,Bajo,Alto,Alto
+Botswana,Alto,Alto,Alto,Medio,Medio
+Brazil,Bajo,Medio,Alto,Bajo,Bajo
+Brunei Darussalam,Bajo,Bajo,Bajo,Bajo,Bajo
+Bulgaria,Bajo,Bajo,Bajo,Medio,Medio
+Burkina Faso,Alto,Alto,Medio,Medio,Medio
+Burundi,Medio,Alto,Medio,Alto,Alto
+Cabo Verde,Alto,Medio,Alto,Medio,Medio
+Cambodia,Bajo,Medio,Alto,Bajo,Bajo
+Cameroon,Alto,Alto,Bajo,Bajo,Bajo
+Canada,Medio,Bajo,Medio,Alto,Alto
+Central African Republic (the),Alto,Alto,Bajo,Alto,Alto
+Chad,Alto,Alto,Alto,Medio,Medio
+Chile,Medio,Bajo,Medio,Alto,Alto
+China,Bajo,Bajo,Bajo,Medio,Medio
+Colombia,Bajo,Medio,Bajo,Alto,Alto
+Comoros (the),Medio,Alto,Alto,Medio,Medio
+Congo (the),Medio,Alto,Medio,Medio,Medio
+Costa Rica,Bajo,Bajo,Medio,Alto,Alto
+Côte d'Ivoire,Alto,Bajo,Medio,Medio,Bajo
+Croatia,Medio,Bajo,Bajo,Alto,Alto
+Cuba,Medio,Bajo,Bajo,Alto,Alto
+Cyprus,Bajo,Bajo,Bajo,Medio,Bajo
+Czechia,Medio,Bajo,Bajo,Alto,Alto
+Democratic People's Republic of Korea (the),Medio,Medio,Bajo,Medio,Medio
+Democratic Republic of the Congo (the),Medio,Alto,Alto,Alto,Alto
+Denmark,Bajo,Bajo,Bajo,Alto,Alto
+Djibouti,Medio,Alto,Medio,Medio,Medio
+Dominica,Bajo,Alto,Alto,Alto,Alto
+Ecuador,Bajo,Medio,Medio,Medio,Medio
+Egypt,Bajo,Medio,Bajo,Bajo,Bajo
+El Salvador,Bajo,Medio,Alto,Alto,Alto
+Equatorial Guinea,Alto,Alto,Bajo,Bajo,Bajo
+Eritrea,Alto,Alto,Medio,Bajo,Bajo
+Estonia,Medio,Bajo,Bajo,Alto,Alto
+Eswatini,Alto,Alto,Alto,Alto,Alto
+Ethiopia,Medio,Alto,Medio,Alto,Alto
+Fiji,Medio,Medio,Bajo,Medio,Medio
+Finland,Alto,Bajo,Bajo,Medio,Alto
+France,Medio,Bajo,Bajo,Alto,Alto
+Gabon,Alto,Alto,Medio,Medio,Bajo
+Gambia (the),Medio,Alto,Medio,Alto,Alto
+Georgia,Bajo,Bajo,Bajo,Bajo,Bajo
+Germany,Medio,Bajo,Bajo,Alto,Alto
+Ghana,Medio,Alto,Medio,Bajo,Bajo
+Greece,Bajo,Bajo,Bajo,Medio,Medio
+Grenada,Bajo,Medio,Bajo,Medio,Medio
+Guatemala,Bajo,Medio,Alto,Alto,Alto
+Guinea,Medio,Alto,Medio,Medio,Medio
+Guinea-Bissau,Medio,Alto,Medio,Medio,Bajo
+Guyana,Alto,Medio,Alto,Medio,Medio
+Haiti,Medio,Alto,Alto,Bajo,Bajo
+Honduras,Bajo,Medio,Alto,Alto,Alto
+Hungary,Medio,Bajo,Bajo,Medio,Medio
+Iceland,Medio,Bajo,Bajo,Alto,Alto
+India,Medio,Medio,Bajo,Bajo,Bajo
+Indonesia,Bajo,Medio,Bajo,Bajo,Bajo
+Iran (Islamic Republic of),Bajo,Medio,Bajo,Alto,Alto
+Iraq,Bajo,Medio,Alto,Bajo,Bajo
+Ireland,Medio,Bajo,Bajo,Alto,Alto
+Israel,Bajo,Bajo,Bajo,Medio,Medio
+Italy,Bajo,Bajo,Bajo,Alto,Alto
+Jamaica,Bajo,Medio,Alto,Medio,Medio
+Japan,Medio,Bajo,Bajo,Alto,Alto
+Jordan,Bajo,Medio,Bajo,Alto,Alto
+Kazakhstan,Alto,Bajo,Medio,Medio,Medio
+Kenya,Medio,Alto,Medio,Medio,Alto
+Kiribati,Alto,Alto,Bajo,Bajo,Bajo
+Kuwait,Bajo,Bajo,Bajo,Bajo,Bajo
+Kyrgyzstan,Medio,Medio,Medio,Medio,Medio
+Lao People's Democratic Republic (the),Bajo,Alto,Medio,Bajo,Bajo
+Latvia,Alto,Bajo,Medio,Medio,Medio
+Lebanon,Bajo,Bajo,Bajo,Medio,Medio
+Lesotho,Alto,Alto,Alto,Alto,Alto
+Liberia,Bajo,Alto,Medio,Medio,Medio
+Libya,Bajo,Bajo,Bajo,Bajo,Bajo
+Lithuania,Alto,Bajo,Medio,Alto,Alto
+Luxembourg,Medio,Bajo,Bajo,Alto,Alto
+Madagascar,Medio,Alto,Medio,Medio,Medio
+Malawi,Medio,Alto,Bajo,Alto,Alto
+Malaysia,Bajo,Bajo,Bajo,Bajo,Bajo
+Maldives,Bajo,Bajo,Bajo,Alto,Alto
+Mali,Bajo,Alto,Medio,Bajo,Bajo
+Malta,Bajo,Bajo,Bajo,Alto,Alto
+Mauritania,Bajo,Alto,Medio,Bajo,Bajo
+Mauritius,Medio,Medio,Bajo,Medio,Medio
+Mexico,Bajo,Medio,Alto,Medio,Medio
+Micronesia (Federated States of),Alto,Medio,Bajo,Alto,Alto
+Mongolia,Alto,Medio,Medio,Bajo,Bajo
+Montenegro,Alto,Bajo,Bajo,Medio,Medio
+Morocco,Bajo,Medio,Bajo,Bajo,Bajo
+Mozambique,Alto,Alto,Bajo,Medio,Medio
+Myanmar,Bajo,Alto,Bajo,Bajo,Bajo
+Namibia,Alto,Alto,Alto,Alto,Alto
+Nepal,Medio,Medio,Bajo,Medio,Medio
+Netherlands (the),Medio,Bajo,Bajo,Alto,Alto
+New Zealand,Medio,Bajo,Bajo,Alto,Alto
+Nicaragua,Bajo,Medio,Medio,Alto,Alto
+Niger (the),Medio,Alto,Medio,Medio,Bajo
+Nigeria,Bajo,Alto,Medio,Medio,Medio
+Norway,Medio,Bajo,Bajo,Alto,Alto
+Oman,Bajo,Bajo,Bajo,Bajo,Bajo
+Pakistan,Medio,Alto,Medio,Bajo,Bajo
+Panama,Bajo,Medio,Alto,Alto,Alto
+Papua New Guinea,Bajo,Alto,Medio,Medio,Medio
+Paraguay,Bajo,Medio,Medio,Medio,Medio
+Peru,Bajo,Medio,Medio,Alto,Alto
+Philippines (the),Bajo,Medio,Alto,Medio,Medio
+Poland,Medio,Bajo,Bajo,Medio,Medio
+Portugal,Bajo,Bajo,Bajo,Medio,Medio
+Qatar,Bajo,Bajo,Bajo,Bajo,Bajo
+Republic of Korea (the),Alto,Bajo,Bajo,Medio,Alto
+Republic of Moldova (the),Medio,Medio,Medio,Alto,Alto
+Romania,Bajo,Bajo,Bajo,Medio,Alto
+Russian Federation (the),Bajo,Bajo,Medio,Medio,Medio
+Rwanda,Alto,Medio,Bajo,Medio,Medio
+Saint Lucia,Medio,Medio,Alto,Medio,Medio
+Saint Vincent and the Grenadines,Bajo,Medio,Alto,Alto,Alto
+Samoa,Bajo,Medio,Bajo,Alto,Alto
+San Marino,Alto,Bajo,Medio,Alto,Alto
+Sao Tome and Principe,Bajo,Medio,Bajo,Medio,Alto
+Saudi Arabia,Bajo,Bajo,Medio,Medio,Medio
+Senegal,Medio,Alto,Bajo,Medio,Medio
+Serbia,Bajo,Bajo,Alto,Alto,Alto
+Seychelles,Bajo,Medio,Medio,Medio,Medio
+Sierra Leone,Medio,Alto,Bajo,Medio,Medio
+Singapore,Medio,Bajo,Bajo,Alto,Alto
+Slovakia,Medio,Bajo,Bajo,Alto,Alto
+Slovenia,Alto,Bajo,Bajo,Medio,Alto
+Solomon Islands,Alto,Medio,Medio,Medio,Alto
+Somalia,Alto,Alto,Alto,Medio,Alto
+South Africa,Alto,Medio,Alto,Alto,Alto
+South Sudan,Bajo,Alto,Bajo,Bajo,Bajo
+Spain,Bajo,Bajo,Bajo,Alto,Alto
+Sri Lanka,Medio,Bajo,Medio,Medio,Medio
+Sudan (the),Bajo,Alto,Medio,Medio,Medio
+Suriname,Alto,Medio,Bajo,Medio,Medio
+Sweden,Medio,Bajo,Bajo,Alto,Alto
+Switzerland,Medio,Bajo,Bajo,Alto,Alto
+Syrian Arab Republic (the),Bajo,Medio,Bajo,Bajo,Bajo
+Tajikistan,Bajo,Medio,Medio,Bajo,Bajo
+Thailand,Bajo,Bajo,Bajo,Alto,Alto
+Timor-Leste,Bajo,Alto,Bajo,Bajo,Bajo
+Togo,Alto,Alto,Medio,Medio,Bajo
+Tonga,Bajo,Medio,Bajo,Alto,Alto
+Trinidad and Tobago,Medio,Medio,Alto,Medio,Medio
+Tunisia,Bajo,Medio,Bajo,Alto,Alto
+Turkey,Bajo,Bajo,Bajo,Medio,Medio
+Turkmenistan,Bajo,Alto,Bajo,Medio,Medio
+Uganda,Medio,Alto,Alto,Medio,Medio
+Ukraine,Alto,Bajo,Medio,Medio,Medio
+United Arab Emirates (the),Bajo,Bajo,Bajo,Medio,Medio
+United Kingdom of Great Britain and Northern Ireland (the),Bajo,Bajo,Bajo,Alto,Alto
+United Republic of Tanzania (the),Medio,Alto,Medio,Medio,Alto
+United States of America (the),Alto,Bajo,Bajo,Alto,Alto
+Uruguay,Alto,Bajo,Medio,Alto,Alto
+Uzbekistan,Medio,Medio,Bajo,Medio,Medio
+Vanuatu,Alto,Medio,Bajo,Alto,Alto
+Venezuela (Bolivarian Republic of),Bajo,Medio,Alto,Bajo,Bajo
+Viet Nam,Bajo,Medio,Bajo,Alto,Alto
+Yemen,Bajo,Alto,Medio,Bajo,Bajo
+Zambia,Alto,Alto,Medio,Medio,Medio
+Zimbabwe,Alto,Alto,Alto,Medio,Medio
